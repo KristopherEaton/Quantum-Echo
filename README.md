@@ -1,2 +1,2 @@
 # Quantum-Echo
-Badass game stuff
+Badass game stuff and first unity project published on git hub! Woot
